@@ -41,7 +41,7 @@ export default function myPage() {
           <div className="hero-content text-white">
             <div className="max-w-2xl">
               <h1 className="mb-5  text-white md:text-2xl text-2xl font-normal">
-                <span className="text-5xl font-bold text-amber-500">
+                <span className="text-5xl font-bold text-[#00aeef]">
                   Academic Jobs in Industry{' '}
                 </span>
                 <br />

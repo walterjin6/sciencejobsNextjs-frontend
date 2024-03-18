@@ -44,7 +44,7 @@ export default function Page() {
       <JobSearchBox q="Architecture"/>
 
       <div className=" mt-[3rem] " >
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
           <li><Link href="/architecture/lecturer/" >	Lecturer</Link></li>
           <li><Link href="/architecture/research/" >	Research </Link></li>
           <li><Link href="/architecture/professor/" >	Professor</Link></li>
@@ -57,7 +57,7 @@ export default function Page() {
 
 
       <div className=" mt-2 " >
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
 
           <li><Link href="/online/" >	Online </Link></li>
           <li><Link href="/remote" >	Remote</Link></li>
@@ -68,7 +68,7 @@ export default function Page() {
         </ul>
       </div>
 
-      <div className="text-[#f4a10c]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6 ">
+      <div className="text-[#00aeef]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6 ">
         <a href="#section" class="scroll-smooth md:scroll-auto">
           ▼
         </a>

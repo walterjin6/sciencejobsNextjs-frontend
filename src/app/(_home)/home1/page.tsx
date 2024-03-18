@@ -104,7 +104,7 @@ export default function myPage() {
           <JobSearchBoxHome />
         </div>
 
-<p className=" text-center mt-20 font-lg font-bold">Search By <span className="text-amber-500">REGION</span></p>
+<p className=" text-center mt-20 font-lg font-bold">Search By <span className="text-[#00aeef]">REGION</span></p>
 
 
         <ul className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 items-stretch mb-8 text-left mt-4 max-w-screen-lg mx-auto">

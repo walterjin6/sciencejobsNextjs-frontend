@@ -55,9 +55,9 @@ export default function JobSearchBox({ q, l, forceClass }: MyComponentProps) {
             />
             <button
               type="submit"
-              className="indicator md:w-fit w-full bg-amber-500 md:bg-0 justify-center items-center animate-pulse"
+              className="indicator md:w-fit w-full bg-[#00aeef] md:bg-0 justify-center items-center animate-pulse"
             >
-              <div className="btn join-item bg-amber-500 md:border md:border-gray-300 md:shadow-md border-0 text-white animate-pulse ">
+              <div className="btn join-item bg-[#00aeef] md:border md:border-gray-300 md:shadow-md border-0 text-white animate-pulse ">
                 Search
               </div>
             </button>

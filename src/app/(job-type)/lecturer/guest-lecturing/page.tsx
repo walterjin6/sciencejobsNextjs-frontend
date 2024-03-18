@@ -39,7 +39,7 @@ export default function myPage() {
           <div className=" text-white p-4">
            
               <h1 className="mb-5 text-2xl text-white md:text-4xl font-bold">
-              <span className="text-amber-500 md:text-7xl text-4xl"> Guest Lecturing Jobs</span> <br/> 
+              <span className="text-[#00aeef] md:text-7xl text-4xl"> Guest Lecturing Jobs</span> <br/> 
               </h1>
               <p className="max-w-screen-md font-bold px-4">
             Discover your perfect guest lecturing position through the world’s best job board! 
@@ -86,7 +86,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Prof Sarah</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★</span>
                     <p className="font-bold">Clinical, Health</p>
           </div>
         </div>
@@ -102,7 +102,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Prof Sam</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★★</span>
                     <p className="font-bold">Computer Science</p>
           </div>
         </div>
@@ -118,7 +118,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Prof Hayley</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★</span>
                     <p className="font-bold">Social Sciences</p>
           </div>
         </div>
@@ -133,7 +133,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Senior Prof John</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★★</span>
                     <p className="font-bold">Business</p>
           </div>
         </div>
@@ -148,7 +148,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Assoc Prof Ben</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★</span>
                     <p className="font-bold">Psychology</p>
           </div>
         </div>
@@ -163,7 +163,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Dr Elisa</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★★</span>
                     <p className="font-bold">Arts & Humanities</p>
           </div>
         </div>
@@ -178,7 +178,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Dr Kylie</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★★</span>
                     <p className="font-bold">Mathematics</p>
           </div>
         </div>
@@ -192,7 +192,7 @@ export default function myPage() {
         
           <div className="uniiq-user-name">
             <h3 className="mb-0">Prof Amanda</h3>
-            <span className="fa fa-star checked text-amber-500">★★★★</span>
+            <span className="fa fa-star checked text-[#00aeef]">★★★★</span>
                     <p className="font-bold">Physical Sciences</p>
           </div>
         </div>

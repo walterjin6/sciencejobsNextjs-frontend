@@ -76,7 +76,7 @@ export default function myPage() {
       {/* <div className="bg-gradient-to-b to-white from-orange-100 m-8 mb-12 rounded-3xl  max-w-screen-xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7 ">
           <ul>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">California</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">California</li>
             <li>
               <Link href="/employers/stanford-university/3101/">
                 Stanford University
@@ -192,7 +192,7 @@ export default function myPage() {
             </li>
           </ul>
           <ul>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">
               Massachusetts
             </li>
             <li>
@@ -238,7 +238,7 @@ export default function myPage() {
                 Dana-Farber Cancer Institute
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">Georgia</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">Georgia</li>
             <li>
               <Link href="/employers/emory-university/3372/">
                 Emory University
@@ -249,7 +249,7 @@ export default function myPage() {
                 Georgia Institute of Technology
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">Florida</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">Florida</li>
             <li>
               <Link href="/employers/university-of-miami/5475/">
                 University of Miami
@@ -265,7 +265,7 @@ export default function myPage() {
                 University of Florida
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">
               North Carolina
             </li>
             <li>
@@ -290,7 +290,7 @@ export default function myPage() {
             </li>
           </ul>
           <ul>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">New york</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">New york</li>
             <li>
               <Link href="/employers/columbia-university/3127/">
                 Columbia University
@@ -358,7 +358,7 @@ export default function myPage() {
                 University at Buffalo
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">Pennsylvania</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">Pennsylvania</li>
             <li>
               <Link
                 href="/employers/university-of-pennsylvania/3131/
@@ -391,7 +391,7 @@ export default function myPage() {
                 Duquesne University
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">Illinois</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">Illinois</li>
             <li>
               <Link
                 href="/employers/University-of-Chicago/3126/
@@ -424,7 +424,7 @@ export default function myPage() {
                 University of Illinois at Urbana-Champaign
               </Link>
             </li>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold">Michigan</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold">Michigan</li>
             <li>
               <Link
                 href="/employers/university-of-michigan/3142/
@@ -452,7 +452,7 @@ export default function myPage() {
             </li>
           </ul>
           <ul>
-            <li className="mb-1 mt-4 text-[#f4a10c] font-bold"> All States</li>
+            <li className="mb-1 mt-4 text-[#00aeef] font-bold"> All States</li>
             <li>
               <Link href="/employers/yale-university/3125/">
                 Yale University

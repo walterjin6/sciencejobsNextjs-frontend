@@ -192,7 +192,7 @@ export default function Page() {
                 </div>
 
                 <div className="md:w-1/2">
-                  <h1 className="text-5xl font-semibold  text-[#f4a10c] ">
+                  <h1 className="text-5xl font-semibold  text-[#00aeef] ">
                     {' '}
                     THIS IS NEW... <br /> don't panic!
                   </h1>

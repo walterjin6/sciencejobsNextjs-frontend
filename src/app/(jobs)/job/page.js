@@ -90,7 +90,7 @@ const Job = () => {
           <div className="flex items-center">
             <button
               target="_blank"
-              className="px-4 py-2 bg-[#f4a10c] text-white font-bold rounded-full"
+              className="px-4 py-2 bg-[#00aeef] text-white font-bold rounded-full"
               data-toggle="modal"
               data-target="#apply-modal"
               data-title={title}
@@ -124,7 +124,7 @@ const Job = () => {
           </div>
         </div>
       </div>
-      <div className='flex flex-wrap gap-6 bg-white border-2 border-[#f4a10c] p-4 mb-4 rounded-lg shadow-lg" '>
+      <div className='flex flex-wrap gap-6 bg-white border-2 border-[#00aeef] p-4 mb-4 rounded-lg shadow-lg" '>
         {/* ... (rest of the component remains unchanged) */}
       </div>
       <article

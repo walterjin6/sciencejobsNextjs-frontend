@@ -169,7 +169,7 @@ export default function myPage() {
             </ul>
           </div>
 
-          {/* <h2 className="text-1xl font-bold py-1 px-7 border-2 border-[#f4a10c] text-[#f4a10c] rounded-3xl mt-20 shadow-md ">
+          {/* <h2 className="text-1xl font-bold py-1 px-7 border-2 border-[#00aeef] text-[#00aeef] rounded-3xl mt-20 shadow-md ">
           Most Rewarding University Careers
         </h2>
         <div className="cate-group section23 ">
@@ -179,7 +179,7 @@ export default function myPage() {
             <div className="column">
                 <ul className="">
                 <li className="mb-1 mt-4">
-                    <div className="/academic-hub/find-student-jobs-on-your-university-campus/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/find-student-jobs-on-your-university-campus/" className="text-[#00aeef] ">
                     Find Student Jobs on your University Campus
                     </div>
                   </li>
@@ -191,12 +191,12 @@ export default function myPage() {
                 <ul className="">
                 
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/seek-all-qut-university-careers-here/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/seek-all-qut-university-careers-here/" className="text-[#00aeef] ">
                     Seek all QUT University Careers Here
                     </div>
                   </li>
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/seek-all-qut-university-jobs-here/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/seek-all-qut-university-jobs-here/" className="text-[#00aeef] ">
                     Seek all QUT University Jobs Here
                     </div>
                   </li>
@@ -208,13 +208,13 @@ export default function myPage() {
                   <li className="mb-1 mt-4">
                     <div
                       className="/academic-hub/seek-all-bond-university-careers-here/"
-                      className="text-[#f4a10c] "
+                      className="text-[#00aeef] "
                     >
                       Seek all Bond University Careers Here
                     </div>
                   </li>
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/seek-all-bond-university-jobs-here/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/seek-all-bond-university-jobs-here/" className="text-[#00aeef] ">
                     Seek all Bond University Jobs Here
                     </div>
                   </li>
@@ -225,12 +225,12 @@ export default function myPage() {
               <div className="column">
                 <ul className="">
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/start-your-career-at-harvard-university/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/start-your-career-at-harvard-university/" className="text-[#00aeef] ">
                     Start your Career at Harvard University 
                     </div>
                   </li>
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/seek-all-harvard-university-jobs-here/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/seek-all-harvard-university-jobs-here/" className="text-[#00aeef] ">
                     Seek all Harvard University Jobs Here
                     </div>
                   </li>
@@ -241,12 +241,12 @@ export default function myPage() {
               <div className="column">
                 <ul className="">
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/seek-all-ucla-jobs-here/" className="text-[#f4a10c] ">
+                    <div className="/academic-hub/seek-all-ucla-jobs-here/" className="text-[#00aeef] ">
                     Seek all UCLA Jobs Here
                     </div>
                   </li>
                   <li className="mb-1 mt-4">
-                    <div className="/academic-hub/start-you-career-at-ucla/" className="text-[#f4a10c]">
+                    <div className="/academic-hub/start-you-career-at-ucla/" className="text-[#00aeef]">
                     Start you Career at UCLA
                     </div>
                   </li>

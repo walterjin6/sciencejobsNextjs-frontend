@@ -19,14 +19,14 @@ import Button from '@/shadcn/ui/button';
 
 export default function Header() {
   
-  const { fetchLocation } = useLocation();
-  useEffect(() => {//
-    const getLocation = async () => {
-      const location = await fetchLocation();
-      //console.log(location);
-    };
-    getLocation();
-  }, []);
+  // const { fetchLocation } = useLocation();
+  // useEffect(() => {//
+  //   const getLocation = async () => {
+  //     const location = await fetchLocation();
+  //     //console.log(location);
+  //   };
+  //   getLocation();
+  // }, []);
   const handleFormSubmit = () => {
     if (region !== 'Global') {
       navigate('/jobs/', {
@@ -87,19 +87,27 @@ export default function Header() {
   return (
     <>
       <div className="hamburger-wrapper">
-        {pathname === '' ? (
+        {pathname === '/' ? (
           isNavOpen && (
             <Link
               href={`/${countryMappings2[region.toLowerCase()].url}`}
               className={`static-logo mobile`}
               onClick={() => setIsNavOpen(false)}
             >
-              <LogoAJ width={270} height={60} />{' '}
+              <img
+            className="w-48"
+            src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
+            alt=""
+          />
             </Link>
           )
         ) : (
           <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className={`static-logo mobile`}>
-            <LogoAJ width={270} height={60} />{' '}
+             <img
+            className="w-48"
+            src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
+            alt=""
+          />
           </Link>
         )}
         <HamburgerMenuIcon
@@ -118,32 +126,36 @@ export default function Header() {
         <nav>
           {pathname === '' ? null : (
             <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className="hide-mobile static-logo mr-4">
-              <LogoAJ width={270} height={60} />{' '}
+               <img
+            className="w-48"
+            src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
+            alt=""
+          />
             </Link>
           )}
           <NavItem
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs`}
             icon="/dotted-arrow.svg"
             navLink="Seek Jobs"
-            forceClass="border-b hover:border-amber-500" //this is optional
-            forceButtonClass="border-b hover:border-amber-500 mr-2 "
+            forceClass="border-b hover:border-[#00aeef]" //this is optional
+            forceButtonClass="border-b hover:border-[#00aeef] mr-2 "
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
             url={`/${countryMappings2[region.toLowerCase()].url}/jobs-by-top-universities`}
             icon="/upward-arrow.svg"
-            navLink="Top Universities"
-            forceButtonClass="border-b hover:border-amber-500 "
+            navLink="Top Employers"
+            forceButtonClass="border-b hover:border-[#00aeef] "
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
             url="/career-help"
             icon="/network-icon.svg"
             navLink="Career Help"
-            forceButtonClass="border-b hover:border-amber-500 "
+            forceButtonClass="border-b hover:border-[#00aeef] "
             onClick={() => setIsNavOpen(false)}
           />
-          <div
+          {/* <div
             className={`hide-mobile p-2  md:w-52  dropdown-content z-[1] menu px-4 py-2   rounded-box w-31 } `}
             style={{ maxWidth: '62px' }}
             onMouseLeave={onMouseLeave}
@@ -185,7 +197,7 @@ export default function Header() {
                 ))}
               </ul>
             </div>
-          </div>
+          </div> */}
           {isNavOpen && (
             <>
               <a
@@ -196,7 +208,7 @@ export default function Header() {
               </a>
               <details class="w-full text-center bg-gray-300 open:bg-[amber-200] duration-300 rounded-3xl font-bold shadow-xl">
                 <summary class="py-2">Search In Your Country</summary>
-                <a
+                {/* <a
                   className={`md:w-52  dropdown-content z-[1] menu p-2  bg-slate-100  w-31 } `}
                 >
                   <div className="  text-gray-900 relative">
@@ -216,7 +228,7 @@ export default function Header() {
                       ))}
                     </ul>
                   </div>
-                </a>
+                </a> */}
               </details>
             </>
           )}
@@ -231,9 +243,9 @@ export default function Header() {
               onClick={() => setIsNavOpen(false)}
             />
           </div>
-          <div className="ml-auto post-a-job-button z-[-1] md:z-[1]">
+          {/* <div className="ml-auto post-a-job-button z-[-1] md:z-[1]">
             <SigninButton />
-          </div>
+          </div> */}
         </nav>
       </header>
     </>

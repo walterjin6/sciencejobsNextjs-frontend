@@ -147,12 +147,12 @@ Use university rankings to search for jobs in higher education.
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7 mt-4 mb-16">
 
                   <ul>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>ACT</li>
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>ACT</li>
                     <li><Link href="/employers/australian-national-university/3739/">Australian National
                       University</Link></li>
                     <li><Link href="/employers/university-of-canberra/3821/">University of Canberra</Link>
                     </li>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>New South Wales</li>
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>New South Wales</li>
 
                     <li><Link href="/employers/the-university-of-sydney/3171/">The
                       University of Sydney</Link></li>
@@ -179,7 +179,7 @@ Use university rankings to search for jobs in higher education.
                     </li>
                   </ul>
                   <ul>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>Victoria</li>
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>Victoria</li>
                     <li><Link href="/employers/university-of-melbourne/3170/
                                         ">The University of Melbourne</Link>
                     </li>
@@ -206,13 +206,13 @@ Use university rankings to search for jobs in higher education.
                     </li>
                     <li><Link href="/employers/federation-university/3787/
                                     ">Federation University Australia</Link></li>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>Tasmania</li>
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>Tasmania</li>
                     <li><Link href="/employers/university-of-tasmania/3867/
                                     ">The University of Tasmania</Link>
                     </li>
                   </ul>
                   <ul>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>Queensland</li>
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>Queensland</li>
                    
                     <li><Link href="/employers/university-of-queensland/3172/">The
                       University of Queensland</Link></li>
@@ -236,14 +236,14 @@ Use university rankings to search for jobs in higher education.
                       University of Technology</Link>
                     </li>
                    
-                    <li className='mt-4 mb-1 '><Link href="/find-jobs/northern-territory/" className='text-[#f4a10c] font-bold'>Northern
+                    <li className='mt-4 mb-1 '><Link href="/find-jobs/northern-territory/" className='text-[#00aeef] font-bold'>Northern
                       Territory</Link></li>
                     <li><Link href="/employers/charles-darwin-university/3880/">Charles Darwin
                       University</Link>
                     </li>
                   </ul>
                   <ul>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>South
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>South
                       Australia</li>
                     <li><Link href="/employers/the-university-of-adelaide/3737/">The
                       University of Adelaide</Link>
@@ -257,7 +257,7 @@ Use university rankings to search for jobs in higher education.
                     <li><Link href="/employers/flinders-university/3873/">Flinders
                       University</Link>
                     </li>
-                    <li className='mt-4 mb-1 text-[#f4a10c] font-bold'>Western
+                    <li className='mt-4 mb-1 text-[#00aeef] font-bold'>Western
                       Australia</li>
                     <li><Link href="/employers/university-of-western-australia/3173/">The University of
                       Western Australia</Link></li>

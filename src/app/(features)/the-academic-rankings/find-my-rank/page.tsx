@@ -18,7 +18,7 @@ export default function myPage() {
       <main className="content-grid">
 
 <div className="full-width bg-slate-200 px-auto">
-      <h1 className="card-title font-bold text-amber-500 text-5xl pb-2 mb-0 pr-8 mx-auto">
+      <h1 className="card-title font-bold text-[#00aeef] text-5xl pb-2 mb-0 pr-8 mx-auto">
                 FIND MY ACADEMIC RANK
               </h1>
               <p className="max-w-screen-sm mx-auto">

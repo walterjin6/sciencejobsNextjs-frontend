@@ -61,7 +61,7 @@ export default function myPage() {
             <div className="text-xl max-w-screen-xl mx-auto mb-4">
               <ul className="p-4 pt-0 md:mt-[-20rem] mb-[8rem] pl-4 bg-gray-200 rounded-b-3xl md:bg-none">
                 <div className="text-xl ">
-                  <h2 className="text-[#f4a10c] text-[2.35rem] md:text-[4.5rem] font-bold md:mt-8 md:pt-4 mt-2">
+                  <h2 className="text-[#00aeef] text-[2.35rem] md:text-[4.5rem] font-bold md:mt-8 md:pt-4 mt-2">
                     FIND YOUR BEST
                   </h2>
 
@@ -77,7 +77,7 @@ export default function myPage() {
                   <Link href="/job-ads">
                     <h1
                       className="btn btn-aj"
-                      // className="border-2 border-[#f4a10c] rounded-full p-2 px-4 text-white hover:bg-[#f4a10c] text shadow-xl font-bold  md:mt-0 mt-4 bg-orange-200/50 mb-2"
+                      // className="border-2 border-[#00aeef] rounded-full p-2 px-4 text-white hover:bg-[#00aeef] text shadow-xl font-bold  md:mt-0 mt-4 bg-orange-200/50 mb-2"
                     >
                       Post a Job
                     </h1>
@@ -86,7 +86,7 @@ export default function myPage() {
 
                 <button>
                   <Link href="/job-ads">
-                    <h2 className="border-4 border-[#f4a10c] rounded-full p-2 px-4 text-black hover:bg-[#f4a10c]  text shadow-xl font-bold  md:mt-0 ml-12 hidden">
+                    <h2 className="border-4 border-[#00aeef] rounded-full p-2 px-4 text-black hover:bg-[#00aeef]  text shadow-xl font-bold  md:mt-0 ml-12 hidden">
                       Packages
                     </h2>
                   </Link>
@@ -102,7 +102,7 @@ export default function myPage() {
             <div className="max-w-screen-xl mx-auto ">
               <div className="newLine text-center max-w-screen-lg mx-auto mt-8">
                 <div className="py-2 px-7 rounded-2xl text-center mt-12">
-                  <h2 className="newLine pt-4 text-2xl font-bold text-[#f4a10c] pb-2">
+                  <h2 className="newLine pt-4 text-2xl font-bold text-[#00aeef] pb-2">
                     Packages
                   </h2>
                   <p>
@@ -119,10 +119,10 @@ export default function myPage() {
                   <div className="p-4 grid-cols-1 grid md:flex md:flex-wrap justify-center gap-3 max-w-screen-2xl mx-auto">
                     {/* Single Job Posting */}
                     <div className="md:w-[24%] bg-[white] border border-gray-300 p-4 mb-4 shadow-xl">
-                      <div className="bg-[#f4a10c] pt-2 mt-[-1rem] mx-[-1rem]">
+                      <div className="bg-[#00aeef] pt-2 mt-[-1rem] mx-[-1rem]">
                         {' '}
                       </div>
-                      <h3 className="font-bold text-2xl text-center text-[#f4a10c] pt-2">
+                      <h3 className="font-bold text-2xl text-center text-[#00aeef] pt-2">
                         Single Job Posting
                       </h3>
                       <p className="text-center">Explore our classic ads.</p>
@@ -183,7 +183,7 @@ export default function myPage() {
                         </div>
                       </div>
                       <div className="mt-7.2">
-                        <p className="text-[#f4a10c] font-bold">
+                        <p className="text-[#00aeef] font-bold">
                           Package includes:
                         </p>
                         <ul className="pl-8">
@@ -195,16 +195,16 @@ export default function myPage() {
                       </div>
                     </div>
                     {/* 5 Job Pack */}
-                    {/* <div className="md:w-[24%] bg-gradient-to-t from-white to-amber-500  p-4 mb-10  border border-gray-300 p-4 mb-4  shadow-xl"> */}
+                    {/* <div className="md:w-[24%] bg-gradient-to-t from-white to-[#00aeef]  p-4 mb-10  border border-gray-300 p-4 mb-4  shadow-xl"> */}
                     <div className="md:w-[24%] bg-[white]  p-4 mb-10  border border-gray-300 shadow-xl">
-                      <div className="bg-[#f4a10c] pt-2 mt-[-1rem] mx-[-1rem]"></div>
-                      <h3 className="font-bold text-2xl text-center text-[#f4a10c] pt-2">
+                      <div className="bg-[#00aeef] pt-2 mt-[-1rem] mx-[-1rem]"></div>
+                      <h3 className="font-bold text-2xl text-center text-[#00aeef] pt-2">
                         5 Job Pack
                       </h3>
                       <p className="text-center text-black pb-5">
                         Post 5 Jobs at anytime.
                       </p>
-                      <p className="btn-aj bg-white rounded-full p-3 font-bold text-1xl text-center text-[#f4a10c]  mb-5 items-center shadow-lg">
+                      <p className="btn-aj bg-white rounded-full p-3 font-bold text-1xl text-center text-[#00aeef]  mb-5 items-center shadow-lg">
                         MOST POPULAR
                       </p>
                       <div className="flex flex-col mt-5">
@@ -246,7 +246,7 @@ export default function myPage() {
                         </div>
                       </div>
                       <div className="mt-7.2">
-                        <p className="text-[#f4a10c] font-bold">
+                        <p className="text-[#00aeef] font-bold">
                           Package includes:
                         </p>
                         <ul className="pl-8">
@@ -259,10 +259,10 @@ export default function myPage() {
                     </div>
                     {/* 10 Job Pack */}
                     <div className="md:w-[24%] bg-[white]  p-4 mb-10  border border-gray-300 shadow-xl">
-                      <div className="bg-[#f4a10c] pt-2 mt-[-1rem] mx-[-1rem]">
+                      <div className="bg-[#00aeef] pt-2 mt-[-1rem] mx-[-1rem]">
                         {' '}
                       </div>
-                      <h3 className="font-bold text-2xl text-center text-[#f4a10c] pt-2">
+                      <h3 className="font-bold text-2xl text-center text-[#00aeef] pt-2">
                         10 Job Pack
                       </h3>
                       <p className="text-center pb-[4.3rem]">
@@ -307,7 +307,7 @@ export default function myPage() {
                         </div>
                       </div>
                       <div className="mt-7.2">
-                        <p className="text-[#f4a10c] font-bold">
+                        <p className="text-[#00aeef] font-bold">
                           Package includes:
                         </p>
                         <ul className="pl-8">
@@ -320,10 +320,10 @@ export default function myPage() {
                     </div>
                     {/* Unlimited Packs */}
                     <div className="md:w-[24%] bg-[white]  p-4 mb-10  border border-gray-300 shadow-xl">
-                      <div className="bg-[#f4a10c] pt-2 mt-[-1rem] mx-[-1rem]">
+                      <div className="bg-[#00aeef] pt-2 mt-[-1rem] mx-[-1rem]">
                         {' '}
                       </div>
-                      <h3 className="font-bold text-2xl text-center pt-2 text-[#f4a10c]">
+                      <h3 className="font-bold text-2xl text-center pt-2 text-[#00aeef]">
                         Unlimited Packs
                       </h3>
                       <p className="text-center pb-[2.8rem]">
@@ -368,7 +368,7 @@ export default function myPage() {
                         </div>
                       </div>
                       <div className="mt-7.2">
-                        <p className="text-[#f4a10c] font-bold">
+                        <p className="text-[#00aeef] font-bold">
                           Package includes:
                         </p>
                         <ul className="pl-8">
@@ -398,7 +398,7 @@ export default function myPage() {
           <div className="max-w-screen-xl mx-auto">
             <div className="newLine text-center max-w-screen-xl mx-auto ">
               <div className=" px-7 rounded-2xl text-center">
-                <h2 className="newLine  text-2xl font-bold text-amber-500 pb-2">
+                <h2 className="newLine  text-2xl font-bold text-[#00aeef] pb-2">
                   Job Listing Options
                 </h2>
                 <p>
@@ -411,7 +411,7 @@ export default function myPage() {
 
             <div className="cont1 md:flex md:flex-wrap grid-cols-1 grid justify-center  md:gap-0 gap-3 pt-4">
               <div className="w-auto md:w-1/3 p-4">
-                <div className="long-box border-4   rounded-3xl text-center text-[#f4a10c] shadow-xl">
+                <div className="long-box border-4   rounded-3xl text-center text-[#00aeef] shadow-xl">
                   <Image
                     width={1280}
                     height={380}
@@ -422,7 +422,7 @@ export default function myPage() {
                 </div>
               </div>
               <div className="w-auto md:w-1/3 p-4">
-                <div className="long-box border-4 rounded-3xl   text-[#f4a10c] shadow-xl">
+                <div className="long-box border-4 rounded-3xl   text-[#00aeef] shadow-xl">
                   <Image
                     width={1280}
                     height={380}
@@ -433,7 +433,7 @@ export default function myPage() {
                 </div>
               </div>
               <div className="w-auto md:w-1/3 p-4">
-                <div className="long-box border-4   rounded-3xl  text-[#f4a10c] shadow-xl">
+                <div className="long-box border-4   rounded-3xl  text-[#00aeef] shadow-xl">
                   <Image
                     width={1280}
                     height={380}
@@ -455,7 +455,7 @@ export default function myPage() {
         {/* <div className="max-w-screen-2xl mx-auto">
         <div className="md:flex md:flex-wrap grid-cols-1 grid justify-center my-4 md:gap-0 gap-3 pt-12 mt-10 pb-4">
           <div className="w-auto md:w-1/4 p-4 ">
-            <div className="long-box p-4 rounded-3xl  text-[#f4a10c]  mt-4">
+            <div className="long-box p-4 rounded-3xl  text-[#00aeef]  mt-4">
               <h3 className=" text-2xl pb-4">
                 Let us go above and beyond for&nbsp;you.
               </h3>
@@ -468,7 +468,7 @@ export default function myPage() {
             </div>
           </div>
           <div className="w-auto md:w-1/4 pt-2">
-            <div className="long-box   rounded-3xl text-center  text-[#f4a10c]">
+            <div className="long-box   rounded-3xl text-center  text-[#00aeef]">
               <Image  width={1280}
                 height={380}
                 alt="Employer attraction icon"
@@ -482,7 +482,7 @@ export default function myPage() {
         <div className="bg-gray-200 py-4 rounded-3xl mx-4">
           <div className="p-4 flex">
             <div className="w-auto md:w-1/5 sm:mx-auto md:ml-auto">
-              <div className="long-box rounded-3xl text-center text-[#f4a10c] ">
+              <div className="long-box rounded-3xl text-center text-[#00aeef] ">
                 <Image  width={1280}
                 height={380}
                   alt="Job seeking bell notification icon"
@@ -492,7 +492,7 @@ export default function myPage() {
               </div>
             </div>
             <div className="w-auto md:w-1/4 sm:mx-auto pl-16 md:mr-auto">
-              <div className="long-box  rounded-3xl   text-[#f4a10c]">
+              <div className="long-box  rounded-3xl   text-[#00aeef]">
                 <h3 className="text-2xl pt-10 pb-4">
                   Recruitment marketing is the key to talent attraction.
                 </h3>
@@ -509,7 +509,7 @@ export default function myPage() {
         <div className="max-w-screen-lg mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 justify-center my-4 gap-3 pt-12 mt-10 pb-8 pr-4 rounded-3xl mx-4 bg-gradient-to-l from-white via-white to-amber-100 mb-8 shadow-md">
             <div className="p-4 ">
-              <div className="long-box p-4 rounded-3xl  text-[#f4a10c]  mt-4">
+              <div className="long-box p-4 rounded-3xl  text-[#00aeef]  mt-4">
                 <h3 className=" text-2xl pb-4">
                   Let us go above and beyond for&nbsp;you.
                 </h3>
@@ -521,7 +521,7 @@ export default function myPage() {
               </div>
             </div>
             <div className="pt-2">
-              <div className="long-box   rounded-3xl text-center  text-[#f4a10c]">
+              <div className="long-box   rounded-3xl text-center  text-[#00aeef]">
                 <Image
                   width={1280}
                   height={380}
@@ -537,7 +537,7 @@ export default function myPage() {
             <div className=" rounded-3xl mx-4 bg-gradient-to-l from-white to-amber-300 shadow-md">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-3 ">
                 <div>
-                  <div className="long-box rounded-3xl text-center text-[#f4a10c] ">
+                  <div className="long-box rounded-3xl text-center text-[#00aeef] ">
                     <Image
                       width={1280}
                       height={380}
@@ -548,7 +548,7 @@ export default function myPage() {
                   </div>
                 </div>
                 <div>
-                  <div className="long-box  rounded-3xl   text-[#f4a10c]">
+                  <div className="long-box  rounded-3xl   text-[#00aeef]">
                     <h3 className="text-2xl pt-10 pb-4">
                       Recruitment marketing is the key to talent attraction.
                     </h3>
@@ -565,7 +565,7 @@ export default function myPage() {
           <div className=" ">
             <div className="cont1 md:grid md:grid-cols-2 grid-cols-1 grid justify-center my-4 md:gap-0 gap-3 pt-12 mb-10 pb-4 m-4 mt-8 rounded-3xl bg-gradient-to-l from-white via-white to-orange-100 shadow-md">
               <div className="w-auto  p-4 ">
-                <div className="long-box p-4 rounded-3xl  text-[#f4a10c]  mt-4">
+                <div className="long-box p-4 rounded-3xl  text-[#00aeef]  mt-4">
                   <h3 className=" text-2xl pb-4">
                     Your Institution Deserves the&nbsp;Best.
                   </h3>
@@ -578,7 +578,7 @@ export default function myPage() {
                 </div>
               </div>
               <div className="w-auto pt-2">
-                <div className="long-box   rounded-3xl text-center  text-[#f4a10c]">
+                <div className="long-box   rounded-3xl text-center  text-[#00aeef]">
                   <Image
                     width={1280}
                     height={380}
@@ -597,7 +597,7 @@ export default function myPage() {
             <div className="  mx-4 ">
               <div className="flex grid-cols-1 md:grid-cols-2 gap-3 ">
                 <div>
-                  <div className="long-box rounded-3xl text-center text-[#f4a10c] ">
+                  <div className="long-box rounded-3xl text-center text-[#00aeef] ">
                     <Image
                       width={1280}
                       height={380}
@@ -634,7 +634,7 @@ export default function myPage() {
         
         <div className=' max-w-screen-2xl mx-auto'>
         <div className="blurb text-left py-8 px-4">
-          <h1 className="text-3xl font-bold py-4 px-7 bg-[#f4a10c] text-white rounded-full shadow-xl">Advertising made easy</h1>
+          <h1 className="text-3xl font-bold py-4 px-7 bg-[#00aeef] text-white rounded-full shadow-xl">Advertising made easy</h1>
           <div className="newLine mb-4">
             <p className="font-semibold"></p>
             <p className="font-semibold"></p>

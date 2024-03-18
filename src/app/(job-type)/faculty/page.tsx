@@ -57,7 +57,7 @@ export default function myPage() {
         <div className="hero-content text-white ">
           <div className="max-w-2xl mx-auto">
             <h1 className="mb-5  text-white md:text-2xl text-2xl font-normal">
-              <span className="text-5xl font-bold text-amber-500">
+              <span className="text-5xl font-bold text-[#00aeef]">
                 Faculty Jobs{' '}
               </span>
               <br />
@@ -94,7 +94,7 @@ export default function myPage() {
           </div> */}
 
       <ul className=" mb-8 text-left columns-1 md:columns-5  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize bg-gray-200 pb-4">
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/agriculture/">agriculture</a>
         </li>
         <li className="flex    ">
@@ -130,7 +130,7 @@ export default function myPage() {
         <li className="flex    ">
           <a href="/faculty/veterinary-medicine/">veterinary medicine</a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/business/">business</a>
         </li>
         <li className="flex    ">
@@ -177,7 +177,7 @@ export default function myPage() {
             other business specialities
           </a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/communications/">communications</a>
         </li>
         <li className="flex    ">
@@ -209,7 +209,7 @@ export default function myPage() {
             other communications specialities
           </a>
         </li>
-        <li className="flex md:break   pt-4 font-bold text-[#f4a10c]">
+        <li className="flex md:break   pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/education/">education</a>
         </li>
         <li className="flex    ">
@@ -268,7 +268,7 @@ export default function myPage() {
             other education specialities
           </a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/engineering/">engineering</a>
         </li>
         <li className="flex    ">
@@ -309,7 +309,7 @@ export default function myPage() {
             other engineering specialities
           </a>
         </li>
-        <li className="flex   md:pt-[6.001rem] pt-4 font-bold text-[#f4a10c]">
+        <li className="flex   md:pt-[6.001rem] pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/fine-applied-arts/">fine and applied arts</a>
         </li>
         <li className="flex    ">
@@ -353,7 +353,7 @@ export default function myPage() {
             other fine applied arts specialities
           </a>
         </li>
-        <li className="flex md:break   pt-4 font-bold text-[#f4a10c]">
+        <li className="flex md:break   pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/health-sciences/">health sciences</a>
         </li>
         <li className="flex    ">
@@ -414,10 +414,10 @@ export default function myPage() {
             other health sciences specialities
           </a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/law-and-legal-studies/">law and legal studies</a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/liberal-arts/">liberal arts</a>
         </li>
         <li className="flex    ">
@@ -503,7 +503,7 @@ export default function myPage() {
             other liberal arts specialities
           </a>
         </li>
-        <li className="flex md:break   pt-4 font-bold text-[#f4a10c]">
+        <li className="flex md:break   pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/medicine/">medicine</a>
         </li>
         <li className="flex    ">
@@ -529,7 +529,7 @@ export default function myPage() {
             other medicine specialities
           </a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/science/">science</a>
         </li>
         <li className="flex    ">
@@ -576,7 +576,7 @@ export default function myPage() {
             other science specialities
           </a>
         </li>
-        <li className="flex    pt-4 font-bold text-[#f4a10c]">
+        <li className="flex    pt-4 font-bold text-[#00aeef]">
           <a href="/faculty/technical-career/">technical career</a>
         </li>
         <li className="flex    ">

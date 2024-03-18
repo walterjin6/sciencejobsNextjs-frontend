@@ -32,7 +32,7 @@ const Job = ({ job }) => {
         // }}
       >
         {featured ? (
-          <div className="badge badge-sm badge-featured bg-[#f4a10c] text-white absolute top-[-0.3rem] right-[-0.3rem] border-transparent items-end pt-4 shadow-md">
+          <div className="badge badge-sm badge-featured bg-[#00aeef] text-white absolute top-[-0.3rem] right-[-0.3rem] border-transparent items-end pt-4 shadow-md">
             Featured
           </div>
         ) : null}

@@ -60,7 +60,7 @@ export default async function myPage() {
 
             {/* <a
             href="#section"
-            className="scroll-smooth md:scroll-auto text-[#f4a10c] flex flex-col items-center justify-center text-2xl animate-bounce h-6 pt-12 mb-[16px]"
+            className="scroll-smooth md:scroll-auto text-[#00aeef] flex flex-col items-center justify-center text-2xl animate-bounce h-6 pt-12 mb-[16px]"
           >
             ▼
           </a> */}
@@ -290,7 +290,7 @@ export default async function myPage() {
 
         {/* <p className="px-7 text-center mt-5">
             <Link
-              className="link  text-[#f4a10c] font-bold text-2xl hover:text-orange-500"
+              className="link  text-[#00aeef] font-bold text-2xl hover:text-orange-500"
               href="/global-academic-awards-2023-nominations"
             >
               Do you know someone deserving, nominate them for the 'Global&nbsp;
@@ -843,7 +843,7 @@ export default async function myPage() {
             </div>
           </div>
         </div>
-        <Link className="text-[#f4a10c] mt-4 mb-4 px-2 font-bold" href="/jobs/">
+        <Link className="text-[#00aeef] mt-4 mb-4 px-2 font-bold" href="/jobs/">
           view more top jobs →
         </Link>
 
@@ -861,7 +861,7 @@ export default async function myPage() {
               <div className="column">
                 <ul className="">
                   <li className="mb-1 mt-4">
-                    <Link href="/USA/" className="text-[#f4a10c] font-bold">
+                    <Link href="/USA/" className="text-[#00aeef] font-bold">
                       USA
                     </Link>
                   </li>
@@ -910,7 +910,7 @@ export default async function myPage() {
                   <li className="mb-1 mt-4">
                     <Link
                       href="/Australia/"
-                      className="text-[#f4a10c] font-bold"
+                      className="text-[#00aeef] font-bold"
                     >
                       Australia
                     </Link>
@@ -939,7 +939,7 @@ export default async function myPage() {
                     </li>
                   </ul>
                   <li className="mb-1 mt-4">
-                    <Link href="/UK/" className="text-[#f4a10c] font-bold">
+                    <Link href="/UK/" className="text-[#00aeef] font-bold">
                       UK
                     </Link>
                   </li>
@@ -959,7 +959,7 @@ export default async function myPage() {
               <div className="column">
                 <ul className="">
                   <li className="mb-1 mt-4">
-                    <Link href="/Canada/" className="text-[#f4a10c] font-bold">
+                    <Link href="/Canada/" className="text-[#00aeef] font-bold">
                       Canada
                     </Link>
                   </li>
@@ -975,7 +975,7 @@ export default async function myPage() {
                     </li>
                   </ul>
                   <li className="mb-1 mt-4">
-                    <Link href="/Asia/" className="text-[#f4a10c] font-bold">
+                    <Link href="/Asia/" className="text-[#00aeef] font-bold">
                       Asia
                     </Link>
                   </li>
@@ -998,7 +998,7 @@ export default async function myPage() {
               <div className="column">
                 <ul className="">
                   <li className="mb-1 mt-4">
-                    <Link href="/Europe/" className="text-[#f4a10c] font-bold">
+                    <Link href="/Europe/" className="text-[#00aeef] font-bold">
                       Europe
                     </Link>
                   </li>
@@ -1374,7 +1374,7 @@ export default async function myPage() {
           </Link>
         </div>
       </main>
-      <footer className="py-8 px-7 bg-[#f4a10c] debug">
+      <footer className="py-8 px-7 bg-[#00aeef] debug">
         <div className="text-white grid grid-cols-1 md:grid-cols-5 gap-10 max-w-[1500px] mx-auto">
           <ul>
             <li className="font-bold text-xl pb-1 ">Recruiters</li>

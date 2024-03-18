@@ -63,7 +63,7 @@ export default function Page() {
       </div>
 
       <div className=" mt-2 ">
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
           <li>
             <Link href="/online/"> Online </Link>
           </li>
@@ -120,12 +120,12 @@ export default function Page() {
           </div>
         </div>
 
-        {/* <div className="text-[#f4a10c]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6" >
+        {/* <div className="text-[#00aeef]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6" >
         <a>▼</a></div> */}
         {/* <div className="bg-gradient-to-b to-white from-gray-300 rounded-t-[3rem] mt-[-1rem]"> */}
         {/* <div className=" max-w-screen-xl mx-auto">
           <div className="blurb text-left py-8 mt-[30rem] ">
-            <h1 className="py-3 px-7 bg-[#f4a10c] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs New Zealand</h1>
+            <h1 className="py-3 px-7 bg-[#00aeef] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs New Zealand</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>
               <p className="font-semibold"></p> */}

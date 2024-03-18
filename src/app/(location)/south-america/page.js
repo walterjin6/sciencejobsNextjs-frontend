@@ -31,7 +31,7 @@ export const metadata = {
       <h3 className="text-center ">We Are South America's University Job Website</h3>
       
       <div className=" mt-[5rem] " >
-        <ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-[#00aeef] ">
           <ul className="w-full  md:w-auto flex items-center  justify-center gap-4">
             <li><Link href="/South-America/lecturer/" >	Lecturer</Link></li>
             <li><Link href="/South-America/research/" >	Research </Link></li>
@@ -47,7 +47,7 @@ export const metadata = {
 
 
       <div className=" mt-2 " >
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
 
           <li><Link href="/online/" >	Online </Link></li>
           <li><Link href="/remote" >	Remote</Link></li>
@@ -86,12 +86,12 @@ export const metadata = {
       </div>
 
 
-      {/* <div className="text-[#f4a10c]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6" >
+      {/* <div className="text-[#00aeef]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6" >
         <a>▼</a></div> */}
       {/* <div className="bg-gradient-to-b to-white from-orange-100 rounded-t-[3rem] mt-[-1rem]"> */}
         {/* <div className=" max-w-screen-xl mx-auto">
           <div className="blurb text-left py-8 pt-[30rem] ">
-            <h1 className="py-3 px-7 bg-[#f4a10c] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs South America</h1>
+            <h1 className="py-3 px-7 bg-[#00aeef] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs South America</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>
               <p className="font-semibold"></p> */}

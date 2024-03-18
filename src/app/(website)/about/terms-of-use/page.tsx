@@ -17,7 +17,7 @@ export default function myPage() {
     <>
       <main className="content-grid">
         <div className="bg-white bg-opacity-70 p-4 text-start text-black text-base">
-        <h1 className="text-amber-500 text-2xl mb-4 font-bold">Terms and Conditions</h1>
+        <h1 className="text-[#00aeef] text-2xl mb-4 font-bold">Terms and Conditions</h1>
                 <p>
                     Please read these Terms &amp; Conditions carefully before using
                     AcademicJobs. AcademicJobs reserves the right to modify these Terms

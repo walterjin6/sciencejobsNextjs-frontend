@@ -201,7 +201,7 @@ export default async function myPage() {
         </ul>
       </div>
       <div className=" mt-4 ">
-        <ul className=" flex flex-wrap gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className=" flex flex-wrap gap-4 items-center justify-center text-[#00aeef] ">
           <li>
             <Link href="/online"> Online </Link>
           </li>
@@ -232,7 +232,7 @@ export default async function myPage() {
         View Your Ranking Here
       </div> */}
       {/* <AusUniLogos /> */}
-      {/* <div className="text-[#f4a10c]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6 ">
+      {/* <div className="text-[#00aeef]  flex flex-col items-center justify-center  text-2xl pt-8  animate-bounce h-6 ">
         <a href="#section" class="scroll-smooth md:scroll-auto">
           ▼
         </a>
@@ -267,7 +267,7 @@ export default async function myPage() {
           </div>
 
           <p className="font-semibold"></p>
-          <ul className="flex flex-wrap text-justify space-between gap-6 px-7 pb-4  text-[#f4a10c] mx-auto">
+          <ul className="flex flex-wrap text-justify space-between gap-6 px-7 pb-4  text-[#00aeef] mx-auto">
             <li>
               <Link href="/melbourne"> Melboune </Link>
             </li>

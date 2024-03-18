@@ -35,7 +35,7 @@ export default function myPage() {
     <>
       <div className="w-full h-full text-2xl pd-1 space-y-6">
         <div className="blurb text-left py-8 text-2xl">
-          <h1 className="bg-[#f4a10c] text-white rounded-3xl font-bold mb-2 text-lg md:text-2xl px-7">
+          <h1 className="bg-[#00aeef] text-white rounded-3xl font-bold mb-2 text-lg md:text-2xl px-7">
             AcademicJobs Sitemap
           </h1>
           <div className="newLine mb-4">
@@ -53,7 +53,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             University Articles
           </h2>
           <div className=" text-left  grid grid-cols-1 md:grid-cols-4  py-2 px-7 gap-4">
@@ -79,7 +79,7 @@ export default function myPage() {
           </div>
         </div>
 
-        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
           Top Universities To Work For
         </h2>
         <div className="cate-group section23 ">
@@ -268,7 +268,7 @@ export default function myPage() {
           </div>
         </div>
 
-        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
           <Link href="/the-university-rankings/">
             The University Rankings/ Top Academic Careers
           </Link>
@@ -411,7 +411,7 @@ export default function myPage() {
           </div>
         </div>
 
-        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+        <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
           Top Cities for Uni Jobs
         </h2>
         <div className="cate-group section23 ">
@@ -425,7 +425,7 @@ export default function myPage() {
                   <li className="mb-2 mt-4">
                     <Link
                       href="/australia/"
-                      className="text-[#f4a10c] font-bold mb-2"
+                      className="text-[#00aeef] font-bold mb-2"
                     >
                       australia
                     </Link>
@@ -454,7 +454,7 @@ export default function myPage() {
                     </li>
                   </ul>
                   <li className="mb-2 mt-4">
-                    <Link href="/uk/" className="text-[#f4a10c] font-bold mb-2">
+                    <Link href="/uk/" className="text-[#00aeef] font-bold mb-2">
                       uk
                     </Link>
                   </li>
@@ -478,7 +478,7 @@ export default function myPage() {
                   <li className="mb-2 mt-4">
                     <Link
                       href="/canada/"
-                      className="text-[#f4a10c] font-bold mb-2"
+                      className="text-[#00aeef] font-bold mb-2"
                     >
                       canada
                     </Link>
@@ -498,7 +498,7 @@ export default function myPage() {
                   <li className="mb-2 mt-4">
                     <Link
                       href="/asia/"
-                      className="text-[#f4a10c] font-bold mb-2"
+                      className="text-[#00aeef] font-bold mb-2"
                     >
                       asia
                     </Link>
@@ -526,7 +526,7 @@ export default function myPage() {
                   <li className="mb-2 mt-4">
                     <Link
                       href="/europe/"
-                      className="text-[#f4a10c] font-bold mb-2"
+                      className="text-[#00aeef] font-bold mb-2"
                     >
                       europe
                     </Link>
@@ -575,7 +575,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/professor/">Find Professor Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -593,7 +593,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/lecturer/">Find Lecturer Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -611,7 +611,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/research/">Find Research Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -629,7 +629,7 @@ export default function myPage() {
         </div>
 
         {/* <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/position/">Find Academic Positions / Roles</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -647,7 +647,7 @@ export default function myPage() {
         </div> */}
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/executive/">Find Academic Executive jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize">
@@ -665,7 +665,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/staff-jobs/">Find University Admin/Support jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize">
@@ -683,7 +683,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/hr-jobs/">Find Academic HR jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize">
@@ -701,7 +701,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/student-jobs/">Find Student jobs on Campus</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize">
@@ -719,7 +719,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/industry/">Find Academic Industry jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize">
@@ -737,7 +737,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/faculty/">
               Choose Higher Ed Job faculty / Specialty
             </Link>
@@ -757,7 +757,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/uk/">Find uk Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -773,7 +773,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/south-america/">Find South America Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -791,7 +791,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/new-zealand/">Find New Zealand Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -809,7 +809,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/middle-east/">Find Middle East Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -827,7 +827,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/india/">Find india Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -845,7 +845,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/europe/">Find europe Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -863,7 +863,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/canada/">Find canada Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -881,7 +881,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/africa/">Find africa Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -899,7 +899,7 @@ export default function myPage() {
         </div>
 
         <div className="bg-white flex flex-col  ">
-          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#f4a10c] text-white rounded-3xl mt-20 ">
+          <h2 className="text-1xl font-bold mb-2 py-1 px-7 bg-[#00aeef] text-white rounded-3xl mt-20 ">
             <Link href="/asia/">Find asia Jobs</Link>
           </h2>
           <ul className=" mb-8 text-left xs:columns-1 sm:columns-1 md:columns-4  md:gap-2 py-2 px-7 h-auto w-full text-transform: capitalize ">
@@ -916,11 +916,11 @@ export default function myPage() {
           </ul>
         </div>
 
-        <h2 className="py-3 px-7 bg-[#f4a10c] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
+        <h2 className="py-3 px-7 bg-[#00aeef] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
           Academic Jobs australia
         </h2>
         <div className=" mt-[1rem] pb-8">
-          <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#f4a10c] ">
+          <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#00aeef] ">
             <ul className="w-full  md:w-auto flex items-center  justify-center gap-6">
               <li className="">
                 <a href="/australia/lecturer/"> Lecturer</a>
@@ -962,11 +962,11 @@ export default function myPage() {
           </ul>
         </div>
 
-        <h1 className="py-3 px-7 bg-[#f4a10c] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
+        <h1 className="py-3 px-7 bg-[#00aeef] text-white rounded-3xl font-bold mb-2 text-xl md:text-xl lg:text-xl text-transform: uppercase">
           usa Academic Jobs Online
         </h1>
         <div className=" mt-[1rem] pb-8">
-          <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#f4a10c] ">
+          <ul className="faculty-container flex flex-wrap gap-6 items-center justify-center text-[#00aeef] ">
             <ul className="w-full  md:w-auto flex items-center  justify-center gap-6">
               <li className="pb-6">
                 <a href="/usa/lecturer/"> Lecturer</a>
@@ -1006,12 +1006,12 @@ export default function myPage() {
         </div>
 
         <div className="region-container bg-white">
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             UNITED STATES
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">California</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">California</li>
               <li className="pb-6">
                 <Link href="/employers/stanford-university/3101/">
                   Stanford University
@@ -1127,7 +1127,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Massachusetts
               </li>
               <li className="pb-6">
@@ -1175,7 +1175,7 @@ export default function myPage() {
                   Dana-Farber Cancer Institute
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Georgia</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Georgia</li>
               <li className="pb-6">
                 <Link href="/employers/emory-university/3372/">
                   Emory University
@@ -1186,7 +1186,7 @@ export default function myPage() {
                   Georgia Institute of Technology
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Florida</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Florida</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-miami/5475/">
                   University of Miami
@@ -1202,7 +1202,7 @@ export default function myPage() {
                   University of Florida
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 North Carolina
               </li>
               <li className="pb-6">
@@ -1227,7 +1227,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">New york</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">New york</li>
               <li className="pb-6">
                 <Link href="/employers/columbia-university/3127/">
                   Columbia University
@@ -1295,7 +1295,7 @@ export default function myPage() {
                   University at Buffalo
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Pennsylvania
               </li>
               <li className="pb-6">
@@ -1330,7 +1330,7 @@ export default function myPage() {
                   Duquesne University
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Illinois</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Illinois</li>
               <li className="pb-6">
                 <Link
                   href="/employers/university-of-chicago/3126/
@@ -1363,7 +1363,7 @@ export default function myPage() {
                   University of Illinois at Urbana-Champaign
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Michigan</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Michigan</li>
               <li className="pb-6">
                 <Link
                   href="/employers/university-of-michigan/3142/
@@ -1391,7 +1391,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 {' '}
                 All States
               </li>
@@ -1599,12 +1599,12 @@ export default function myPage() {
         </div>
         <div className="region-container">
           <div>
-            <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+            <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
               AUSTRALIA
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
               <ul>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">ACT</li>
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">ACT</li>
                 <li className="pb-6">
                   <Link href="/employers/australian-national-university/3739/">
                     australian National University
@@ -1615,10 +1615,10 @@ export default function myPage() {
                     University of Canberra
                   </Link>
                 </li>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">
                   New South Wales
                 </li>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">
                   New South Wales
                 </li>
                 <li className="pb-6">
@@ -1681,7 +1681,7 @@ export default function myPage() {
                 </li>
               </ul>
               <ul>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">Victoria</li>
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">Victoria</li>
                 <li className="pb-6">
                   <Link
                     href="/employers/university-of-melbourne/3170/
@@ -1754,7 +1754,7 @@ export default function myPage() {
                     Federation University australia
                   </Link>
                 </li>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">Tasmania</li>
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">Tasmania</li>
                 <li className="pb-6">
                   <Link
                     href="h/employers/university-of-tasmania/3867/
@@ -1765,7 +1765,7 @@ export default function myPage() {
                 </li>
               </ul>
               <ul>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">
                   Queensland
                 </li>
                 <li className="pb-6">
@@ -1813,7 +1813,7 @@ export default function myPage() {
                 <li className="mb-2 ">
                   <Link
                     href="/find-jobs/northern-territory/"
-                    className="text-[#f4a10c] font-bold mb-2"
+                    className="text-[#00aeef] font-bold mb-2"
                   >
                     Northern Territory
                   </Link>
@@ -1825,7 +1825,7 @@ export default function myPage() {
                 </li>
               </ul>
               <ul>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">
                   South australia
                 </li>
                 <li className="pb-6">
@@ -1853,7 +1853,7 @@ export default function myPage() {
                     Flinders University
                   </Link>
                 </li>
-                <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+                <li className="mb-2 text-[#00aeef] font-bold mb-2">
                   Western australia
                 </li>
                 <li className="pb-6">
@@ -1886,12 +1886,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             AFRICA
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Egypt</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Egypt</li>
               <li className="pb-6">
                 <Link href="/employers/cairo-university/6226/">
                   Cairo University
@@ -1909,7 +1909,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 South africa
               </li>
               <li className="pb-6">
@@ -1939,7 +1939,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Nigeria</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Nigeria</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-ibadan/12743/">
                   University of Ibadan
@@ -1967,7 +1967,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Kenya</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Kenya</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-nairobi/12866/">
                   University of Nairobi
@@ -1995,7 +1995,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Morocco</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Morocco</li>
               <li className="pb-6">
                 <Link href="/employers/university-mohammed-v-of-rabat/12453/">
                   University Mohammed V of Rabat
@@ -2013,7 +2013,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Ghana</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Ghana</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-ghana/12711/">
                   University of Ghana
@@ -2031,7 +2031,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Senegal</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Senegal</li>
               <li className="pb-6">
                 <Link href="/employers/cheikh-anta-diop-university/12272/">
                   Cheikh Anta Diop University
@@ -2039,7 +2039,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Tunisia</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Tunisia</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-tunis-el-manar/12393/">
                   University of Tunis El Manar
@@ -2057,7 +2057,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Uganda</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Uganda</li>
               <li className="pb-6">
                 <Link href="/employers/makerere-university/8875/">
                   Makerere University
@@ -2077,12 +2077,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             ASIA
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Singapore</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Singapore</li>
               <li className="pb-6">
                 <Link href="/employers/nanyang-technological-university-singapore/3152/">
                   Nanyang Technological University
@@ -2093,7 +2093,7 @@ export default function myPage() {
                   National University of Singapore
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Malaysia</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Malaysia</li>
               <li className="pb-6">
                 <Link href="/employers/universiti-ualaya/12499/">
                   Universiti Malaya (UM)
@@ -2101,7 +2101,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">China</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">China</li>
               <li className="pb-6">
                 <Link href="/employers/peking-university/3133/">
                   Peking University
@@ -2124,19 +2124,19 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Japan</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Japan</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-tokyo/3155/">
                   University of Tokyo
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Indonesia</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Indonesia</li>
               <li className="pb-6">
                 <Link href="/employers/the-university-of-indonesia/12068/">
                   The University of Indonesia
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Thailand</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Thailand</li>
               <li className="pb-6">
                 <Link href="/employers/chulalongkorn-university/6615/">
                   Chulalongkorn University
@@ -2144,7 +2144,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Hong Kong</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Hong Kong</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-hong-kong/3148/">
                   University of Hong Kong
@@ -2160,7 +2160,7 @@ export default function myPage() {
                   The Hong Kong University of Science and Technology
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 South Korea
               </li>
               <li className="pb-6">
@@ -2172,12 +2172,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             CANADA
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Alberta</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Alberta</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-alberta/3837/">
                   University of Alberta
@@ -2190,7 +2190,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Quebec</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Quebec</li>
               <li className="pb-6">
                 <Link href="/employers/mcgill-university/3162/">
                   McGill University
@@ -2213,7 +2213,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Ontario</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Ontario</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-toronto//3134/">
                   University of Toronto
@@ -2255,12 +2255,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             UNITED KINGDOM
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">England</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">England</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-cambridge/12635/">
                   University of Cambridge
@@ -2303,7 +2303,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Scotland</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Scotland</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-edinburgh/12681/">
                   University of Edinburgh
@@ -2331,7 +2331,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Wales</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Wales</li>
               <li className="pb-6">
                 <Link href="/employers/cardiff-university/6252/">
                   Cardiff University
@@ -2354,7 +2354,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Northern Ireland
               </li>
               <li className="pb-6">
@@ -2371,12 +2371,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             SOUTH AMERICA
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Brazil</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Brazil</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-sao-paulo/11463/">
                   University of São Paulo
@@ -2395,14 +2395,14 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Argentina</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Argentina</li>
               <li className="pb-6">
                 <Link href="/employers/universidad-de-buenos-aires/11196/">
                   Universidad de Buenos Aires
                 </Link>
               </li>
 
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Colombia</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Colombia</li>
               <li className="pb-6">
                 <Link href="/employers/universidad-de-los-andes/11308/">
                   Universidad de los Andes
@@ -2416,7 +2416,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Chile</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Chile</li>
               <li className="pb-6">
                 <Link href="/employers/pontificia-universidad-catolica-de-chile/9739/">
                   Pontificia Universidad Catolica de Chile
@@ -2439,7 +2439,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Peru</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Peru</li>
               <li className="pb-6">
                 <Link href="/employers/universidad-alas-peruanas/11010/">
                   Universidad Alas Peruanas
@@ -2454,12 +2454,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             NEW ZEALAND
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 North Island
               </li>
               <li className="pb-6">
@@ -2484,7 +2484,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 South Island
               </li>
               <li className="pb-6">
@@ -2511,12 +2511,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             MIDDLE EAST
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Saudi Arabia
               </li>
               <li className="pb-6">
@@ -2536,7 +2536,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">UAE</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">UAE</li>
               <li className="pb-6">
                 <Link href="/employers/khalifa-university-uae/8481/">
                   Khalifa University
@@ -2559,19 +2559,19 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Lebanon</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Lebanon</li>
               <li className="pb-6">
                 <Link href="/employers/american-university-of-beirut-lebanon/5804/">
                   American University of Beirut
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Jordan</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Jordan</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-jordan-jordan/12763/">
                   University of Jordan
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Qatar</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Qatar</li>
               <li className="pb-6">
                 <Link href="/employers/qatar-university-qatar/12944/">
                   Qatar University
@@ -2581,12 +2581,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             INDIA
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Mumbai</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Mumbai</li>
               <li className="pb-6">
                 <Link href="/employers/indian-institute-of-technology-bombay/3844/">
                   indian Institute of Technology Bombay
@@ -2594,7 +2594,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Chennai</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Chennai</li>
               <li className="pb-6">
                 <Link href="/employers/indian-institute-of-technology-madras/3845/">
                   indian Institute of Technology Madras
@@ -2602,7 +2602,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Vellore</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Vellore</li>
               <li className="pb-6">
                 <Link href="/employers/vellore-institute-of-technology/3846/">
                   Vellore Institute of Technology
@@ -2610,7 +2610,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Bangalore</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Bangalore</li>
               <li className="pb-6">
                 <Link href="/employers/indian-institute-of-science/7818/">
                   indian Institute of Science (IISc)
@@ -2618,7 +2618,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Delhi</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Delhi</li>
               <li className="pb-6">
                 <Link href="/employers/indian-institute-of-technology-delhi/7822/">
                   indian Institute of Technology Delhi
@@ -2628,12 +2628,12 @@ export default function myPage() {
           </div>
         </div>
         <div>
-          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#f4a10c] text-white rounded-3xl ">
+          <h2 className="text-1xl font-bold mb-2 py-3 px-7 bg-[#00aeef] text-white rounded-3xl ">
             EUROPE
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 p-7">
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">France</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">France</li>
               <li className="pb-6">
                 <Link href="/employers/paris-sciences-et-lettres/3163/">
                   Paris Sciences et Lettres
@@ -2644,7 +2644,7 @@ export default function myPage() {
                   Ecole Polytechnique
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Sweden</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Sweden</li>
               <li className="pb-6">
                 <Link href="/employers/karolinska-institute/3165/">
                   Karolinska Institute
@@ -2652,7 +2652,7 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Germany</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Germany</li>
               <li className="pb-6">
                 <Link href="/employers/heidelberg-university/3160/">
                   Heidelberg University
@@ -2670,26 +2670,26 @@ export default function myPage() {
               </li>
             </ul>
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Denmark</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Denmark</li>
               <li className="pb-6">
                 <Link href="/employers/the-university-of-copenhagen/3156/">
                   University of Copenhagen
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Switzerland
               </li>
               <li className="pb-6">
                 <Link href="/employers/eth-zurich/3132/">ETH Zurich</Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Belgium</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Belgium</li>
               <li className="pb-6">
                 <Link href="/employers/ku-leuven/3159/">KU Leuven</Link>
               </li>
             </ul>
 
             <ul>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">
                 Netherlands
               </li>
               <li className="pb-6">
@@ -2697,14 +2697,14 @@ export default function myPage() {
                   Delft University of Technology
                 </Link>
               </li>
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Italy</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Italy</li>
               <li className="pb-6">
                 <Link href="/employers/university-of-bologna/12015/">
                   University of Bologna
                 </Link>
               </li>
 
-              <li className="mb-2 text-[#f4a10c] font-bold mb-2">Spain</li>
+              <li className="mb-2 text-[#00aeef] font-bold mb-2">Spain</li>
               <li className="pb-6">
                 <Link href="/employers/universitat-de-barcelona/12195/">
                   Universitat de Barcelona

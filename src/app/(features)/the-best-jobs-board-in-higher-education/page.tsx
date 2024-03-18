@@ -336,7 +336,7 @@ export default function myPage() {
           <div className=""></div>
           <div className="  text-center text-white py-16">
             <div className="mr-[70rem]">
-              <h2 className="  max-w-2xl mb-5 text-2xl md:text-4xl text-amber-500 font-bold">
+              <h2 className="  max-w-2xl mb-5 text-2xl md:text-4xl text-[#00aeef] font-bold">
                "We <span  className="text-6xl">have</span>  created  <span  className="text-6xl"><br/>the world's best</span> opportunity platform for all people  <br/><span  className="text-6xl">in higher education"</span> 
               </h2>
              

@@ -93,7 +93,7 @@ export default async function myPage() {
             
             <section className="wrapper md:flex ">
               <h2 className="sentence mt-[6rem]">
-              <h2 className="sentence-ca text-amber-500 md:mb-[-5rem] mb-[-10rem]">Canada's university jobs & affairs</h2>
+              <h2 className="sentence-ca text-[#00aeef] md:mb-[-5rem] mb-[-10rem]">Canada's university jobs & affairs</h2>
                 <span className="mr-8">Find</span> <span className="md:hidden block my-[-1rem]"><br/></span>
                 <div className="slidingVertical ">
                   <span>Opportunity</span>
@@ -174,7 +174,7 @@ export default async function myPage() {
       </div>
 
       <div className=" mt-2 ">
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-amber-500 ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
           <li>
             <Link href="/online/"> Online </Link>
           </li>

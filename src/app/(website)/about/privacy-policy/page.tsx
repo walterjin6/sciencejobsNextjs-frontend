@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function myPage() {
   return (
     <div className="bg-white bg-opacity-70 p-4 text-start text-black text-base">
-      <h1 className="text-amber-500 text-2xl mb-4 font-bold">Privacy Policy</h1>
+      <h1 className="text-[#00aeef] text-2xl mb-4 font-bold">Privacy Policy</h1>
       <p>
         Welcome to AcademicJobs. Your privacy is important to us. This Privacy
         Policy explains how we collect, use, disclose, and safeguard your

@@ -94,7 +94,7 @@ export default async function myPage() {
             
             <section className="wrapper md:flex ">
               <h2 className="sentence mt-[6rem]">
-              <h2 className="sentence-eu text-amber-500 md:mb-[-5rem] mb-[-10rem]">All Academic positions in Europe</h2>
+              <h2 className="sentence-eu text-[#00aeef] md:mb-[-5rem] mb-[-10rem]">All Academic positions in Europe</h2>
                 <span className="mr-8">Find</span> <span className="md:hidden block my-[-1rem]"><br/></span>
                 <div className="slidingVertical ">
                   <span>Opportunity</span>
@@ -148,7 +148,7 @@ export default async function myPage() {
       {/* <h3 className="text-center ">We Are Europe's University Job Website</h3> */}
       
       <div className=" mt-[5rem] " >
-        <ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex flex-wrap gap-4 items-center justify-center text-[#00aeef] ">
           <ul className="w-full  md:w-auto flex items-center  justify-center gap-4">
             <li><Link href="/Europe/lecturer/" >	Lecturer</Link></li>
             <li><Link href="/Europe/research/" >	Research </Link></li>
@@ -164,7 +164,7 @@ export default async function myPage() {
 
 
       <div className=" mt-2 " >
-        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#f4a10c] ">
+        <ul className="faculty-container flex  gap-4 items-center justify-center text-[#00aeef] ">
 
           <li><Link href="/online/" >	Online </Link></li>
           <li><Link href="/remote" >	Remote</Link></li>
@@ -204,7 +204,7 @@ export default async function myPage() {
       {/* <div className="bg-gradient-to-b to-white from-orange-100 rounded-t-[3rem] mt-[-1rem]"> */}
         {/* <div className=" max-w-screen-xl mx-auto">
           <div className="blurb text-left py-8 mt-[30rem] ">
-            <h1 className="py-3 px-7 bg-[#f4a10c] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs Europe</h1>
+            <h1 className="py-3 px-7 bg-[#00aeef] text-white rounded-3xl font-bold text-2xl md:text-2xl lg:text-2xl  shadow-xl">Academic Jobs Europe</h1>
             <div className="newLine mb-4">
               <p className="font-semibold"></p>
               <p className="font-semibold"></p>

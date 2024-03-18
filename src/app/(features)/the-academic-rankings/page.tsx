@@ -51,7 +51,7 @@ export default function myPage() {
               <div className="text-center">
                 <Link
                   href="https://www.academicjobs.com/the-academic-rankings/find-my-rank"
-                  className="bg-amber-500 text-white p-4 rounded-3xl font-bold "
+                  className="bg-[#00aeef] text-white p-4 rounded-3xl font-bold "
                 >
                   FIND YOUR ACADEMIC RANK….
                 </Link>
@@ -80,7 +80,7 @@ export default function myPage() {
               />
             </figure>
             <div className="card-body w-full p-4">
-              <h2 className="card-title font-bold text-amber-500 text-3xl pb-2">
+              <h2 className="card-title font-bold text-[#00aeef] text-3xl pb-2">
                 GROW YOURSELF GLOBALLY
               </h2>
               <p className="max-w-screen-sm">
@@ -114,7 +114,7 @@ export default function myPage() {
               />
             </figure>
             <div className="card-body w-full p-4">
-              <h2 className="card-title font-bold text-amber-500 text-3xl pb-2">
+              <h2 className="card-title font-bold text-[#00aeef] text-3xl pb-2">
                 COLLABORATION OVER COMPETITION
               </h2>
               <p className="max-w-screen-sm">
@@ -148,7 +148,7 @@ export default function myPage() {
               />
             </figure>
             <div className="card-body w-full p-4">
-              <h2 className="card-title font-bold text-amber-500 text-3xl pb-2">
+              <h2 className="card-title font-bold text-[#00aeef] text-3xl pb-2">
                 ANALYSE YOUR ACADEMIC PROGRESS
               </h2>
               <p className="max-w-screen-sm">
@@ -183,7 +183,7 @@ export default function myPage() {
               />
             </figure>
             <div className="card-body w-full p-4">
-              <h2 className="pt-4 card-title font-bold text-amber-500 text-3xl pb-2">
+              <h2 className="pt-4 card-title font-bold text-[#00aeef] text-3xl pb-2">
                 EMBRACE YOUR INDIVIDUALITY
               </h2>
               <p className="max-w-screen-sm">
