@@ -300,7 +300,7 @@ export default function Page() {
 
         <div className="max-w-4xl mx-auto py-8"></div>
 
-        <div className="bg-gray-100">
+        {/* <div className="bg-gray-100">
           <div className="container mx-auto py-8">
             <p className="text-lg font-semibold mb-8">
               Search & Find your next academic journey with our cutting-edge job
@@ -344,7 +344,7 @@ export default function Page() {
               your next career opportunity with confidence.
             </p>
           </div>
-        </div>
+        </div> */}
         <div className="container alert mt-16 bg-emerald-100 text-xl mx-4">
           <span>
             <strong>Are you a recruiter?</strong> Try our{' '}

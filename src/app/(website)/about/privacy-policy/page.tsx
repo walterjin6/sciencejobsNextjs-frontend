@@ -6,17 +6,17 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'privacy-policy', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Science Jobs: Science, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description: 'Review our privacy-policy.',
-  keywords: 'privacy-policy, academicjobs',
+  keywords: 'privacy-policy, Sciencejobs',
 };
 export default function myPage() {
   return (
     <div className="bg-white bg-opacity-70 p-4 text-start text-black text-base">
       <h1 className="text-[#00aeef] text-2xl mb-4 font-bold">Privacy Policy</h1>
       <p>
-        Welcome to AcademicJobs. Your privacy is important to us. This Privacy
+        Welcome to ScienceJobs. Your privacy is important to us. This Privacy
         Policy explains how we collect, use, disclose, and safeguard your
         information when you visit our website. Please read this Privacy Policy
         carefully. If you do not agree with the terms of this Privacy Policy,

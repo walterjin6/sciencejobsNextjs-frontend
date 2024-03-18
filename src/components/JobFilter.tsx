@@ -57,12 +57,12 @@ export default function JobFilter({ dataQty = '> 1' }: JobFilterProps) {
                 />
                  <Link
                     href="https://www.academicjobs.com/academic-talent-pool"
-                    className="btn btn-sm btn-aj m-4 "
+                    className="btn btn-sm btn-aj m-4 bg-green-500"
                   >
                     Join Now
                   </Link>
 </div>
-        <div className=" mt-4 hidden lg:block">
+        {/* <div className=" mt-4 hidden lg:block">
           {logos.map((logo, index) => (
             <div key={index} className={`${index > 0 ? 'mt-16' : ''}`}>
               <Link href={logo.link}>
@@ -76,7 +76,7 @@ export default function JobFilter({ dataQty = '> 1' }: JobFilterProps) {
               </Link>
             </div>
           ))}
-        </div>
+        </div> */}
        </>
       ) : (
         <>

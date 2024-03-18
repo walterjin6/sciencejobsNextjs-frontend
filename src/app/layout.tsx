@@ -12,10 +12,10 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    default: 'The Best Academic Jobs', //Default if nothing is set
-    template: '%s | Academic Jobs', //If the title is set on the page the %s will be replaced with the title
+    default: 'The Best Science Jobs', //Default if nothing is set
+    template: '%s | Science Jobs', //If the title is set on the page the %s will be replaced with the title
   },
-  description: "Academic Jobs the worlds' number 1 job board",
+  description: "Science Jobs the worlds' number 1 job board",
   icons: {
     icon: '/favicon.png',
   },

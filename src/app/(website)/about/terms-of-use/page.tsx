@@ -6,11 +6,11 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Terms and Conditions', //Option 1 replaces the %s in layout.tsx
   // title: {
-  //   absolute: '  Academic Jobs: Academic, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
+  //   absolute: '  Science Jobs: Science, research and science positions locally and globally.', //Option 2 overrides the title in layout.tsx
   // },
   description:
-    'Review our comprehensive terms and conditions to understand the guidelines and agreements for using our academic job board. Learn about the user rights.',
-  keywords: 'Terms and Conditions academicjobs, academicjobs Terms and Conditions',
+    'Review our comprehensive terms and conditions to understand the guidelines and agreements for using our Science job board. Learn about the user rights.',
+  keywords: 'Terms and Conditions Sciencejobs, Sciencejobs Terms and Conditions',
 };
 export default function myPage() {
   return (
@@ -20,22 +20,22 @@ export default function myPage() {
         <h1 className="text-[#00aeef] text-2xl mb-4 font-bold">Terms and Conditions</h1>
                 <p>
                     Please read these Terms &amp; Conditions carefully before using
-                    AcademicJobs. AcademicJobs reserves the right to modify these Terms
+                    ScienceJobs. ScienceJobs reserves the right to modify these Terms
                     &amp; Conditions at any time.
                 </p>
         
           <p>
-            Welcome to AcademicJobs, the leading online platform for academic
+            Welcome to ScienceJobs, the leading online platform for Science
             job seekers and employers. By using our website, you agree to comply
             with these terms and conditions, which we may update from time to
             time without notice. Please read them carefully before you proceed.
           </p>
 
           <strong className="block text-xl font-bold mb-2 mt-10">
-            About AcademicJobs
+            About ScienceJobs
           </strong>
           <p>
-            AcademicJobs is a website that connects academic job seekers and
+            ScienceJobs is a website that connects Science job seekers and
             employers in the field of higher education. Whether you are looking
             for a faculty position, a research fellowship, or an administrative
             role, you can find the best opportunities here. And if you are an
@@ -44,10 +44,10 @@ export default function myPage() {
           </p>
 
           <strong className="block text-xl font-bold mb-2 mt-4">
-            How to Use AcademicJobs
+            How to Use ScienceJobs
           </strong>
           <p>
-            To use AcademicJobs, you need to register as a user and create a
+            To use ScienceJobs, you need to register as a user and create a
             profile. You can then upload your resume, cover letter, and other
             relevant documents to showcase your skills and qualifications. You
             can also search for jobs by keywords, location, discipline, or other

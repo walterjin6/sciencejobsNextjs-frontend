@@ -88,19 +88,20 @@ export default function Header() {
     <>
       <div className="hamburger-wrapper">
         {pathname === '/' ? (
-          isNavOpen && (
-            <Link
-              href={`/${countryMappings2[region.toLowerCase()].url}`}
-              className={`static-logo mobile`}
-              onClick={() => setIsNavOpen(false)}
-            >
-              <img
-            className="w-48"
-            src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
-            alt=""
-          />
-            </Link>
-          )
+          // isNavOpen && (
+          //   <Link
+          //     href={`/${countryMappings2[region.toLowerCase()].url}`}
+          //     className={`static-logo mobile`}
+          //     onClick={() => setIsNavOpen(false)}
+          //   >
+          //     <img
+          //   className="w-48"
+          //   src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
+          //   alt=""
+          // />
+          //   </Link>
+          // )
+          <></>
         ) : (
           <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className={`static-logo mobile`}>
              <img
@@ -124,8 +125,8 @@ export default function Header() {
       </div>
       <header className={`header ${isNavOpen ? 'show-menu shadow-xl' : ''} `}>
         <nav>
-          {pathname === '' ? null : (
-            <Link href={`/${countryMappings2[region.toLowerCase()].url}`} className="hide-mobile static-logo mr-4">
+          {pathname === '/' ? null : (
+            <Link href={`/`} className="hide-mobile static-logo mr-4">
                <img
             className="w-48"
             src="https://academicjobs.s3.amazonaws.com/img/_misc/sciencejobs-logo.png"
@@ -134,7 +135,7 @@ export default function Header() {
             </Link>
           )}
           <NavItem
-            url={`/${countryMappings2[region.toLowerCase()].url}/jobs`}
+            url={`/jobs`}
             icon="/dotted-arrow.svg"
             navLink="Seek Jobs"
             forceClass="border-b hover:border-[#00aeef]" //this is optional
@@ -142,7 +143,7 @@ export default function Header() {
             onClick={() => setIsNavOpen(false)}
           />
           <NavItem
-            url={`/${countryMappings2[region.toLowerCase()].url}/jobs-by-top-universities`}
+            url={`/jobs-by-top-universities`}
             icon="/upward-arrow.svg"
             navLink="Top Employers"
             forceButtonClass="border-b hover:border-[#00aeef] "
@@ -234,8 +235,8 @@ export default function Header() {
           )}
           <div className="ml-auto post-a-job-button z-[-1] md:z-[1]">
             <NavItem
-              url={`/${countryMappings2[region.toLowerCase()].url
-                }/recruitment/`}
+              url={`
+                /recruitment/`}
               icon="/post-a-job-icon.svg"
               navLink="Post a Job"
               forceLinkClass="ml-auto"
