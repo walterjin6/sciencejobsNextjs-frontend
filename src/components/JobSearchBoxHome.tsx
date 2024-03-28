@@ -72,7 +72,7 @@ export default function JobSearchBox() {
             l: '',
             q: encodeURIComponent(a.q || ''),
           });
-          router.push(`https://www.academicjobs.com/`);
+          router.push(`/`);
         }}
       >
         Powered by AcademicJobs

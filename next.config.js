@@ -12,6 +12,9 @@ const nextConfig = {
       'dentalstudents.com.au',
     ],
   },
+
+  
+
   async redirects() {
     return [
       // {
@@ -4198,6 +4201,23 @@ const nextConfig = {
           'https://www.academicjobs.com/city/sacramento-usa-education-hub',
         permanent: true,
       },
+
+      {
+        source: '/employers/:slug*',
+        destination: 'https://www.academicjobs.com/employers/:slug*',
+        permanent: true,
+      },
+
+      
+      {
+        source: '/company/3460/tufts-university',
+        destination:
+          'https://www.academicjobs.com/employers/tufts-university/3460',
+        permanent: true,
+      },
+
+     
+
     ];
   },
 };
